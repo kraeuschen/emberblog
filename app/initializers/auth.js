@@ -53,6 +53,6 @@ var auth = Ember.Object.extend({
 
   currentUser: function() {
     return this.get("ref").getAuth();
-  }.property("isAuthenticated ")
+  }.property("isAuthenticated")
 
 });
