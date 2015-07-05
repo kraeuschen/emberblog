@@ -1,5 +1,14 @@
 # My-cool-blog
 
+Based on (outdated) [Blog Tutorial with Ember.js using Ember CLI and Firebase](http://www.programwitherik.com/blog-tutorial-with-ember-js/)
+
+I also released the [distributed firebase app](https://fiery-heat-1640.firebaseapp.com).
+
+## pitfalls
+* origin firebase authenticator is depricated
+* moment was not working
+* showdon helper usage is renamed to markdown-to-html
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
